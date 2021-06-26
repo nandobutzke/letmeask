@@ -66,7 +66,7 @@ export function AdminRoom() {
                             isOutlined
                             onClick={() => handleEndRoom()}
                         >
-                            Encerrar aula
+                            Encerrar sala
                         </Button>
                     </div>
                 </div>
